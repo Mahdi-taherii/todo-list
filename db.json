@@ -10,12 +10,12 @@
       "id": 3,
       "title": "Create new headerpage banner",
       "details": "lorem ipsum",
-      "complete": true
+      "complete": false
     },
     {
       "title": "ijk090iol;-",
       "details": "9jikopl.;'/\nyhuijkolp.",
-      "complete": true,
+      "complete": false,
       "id": 4
     }
   ]
